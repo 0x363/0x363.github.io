@@ -1,2 +1,2 @@
 # 0x363.github.io
-a website
+a website of sorts
